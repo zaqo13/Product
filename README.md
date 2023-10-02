@@ -1,7 +1,9 @@
 # Product Android App Template - Quick Overview
 
 This Android App Template serves as a robust foundation for building versatile applications. It incorporates essential features for a seamless user experience, including streamlined navigation, camera integration, Google Maps API, and efficient data management.
+
 Key Features:
+
 •	Navigation: Activities, Fragments, Tabs, and Drawer for intuitive user journeys.
 
 •	Functionality: Camera integration, Google Maps API, and Backend API (JSON) support.
