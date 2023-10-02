@@ -7,10 +7,13 @@ Key Features:
 •	Navigation: Activities, Fragments, Tabs, and Drawer for intuitive user journeys.
 
 •	Functionality: Camera integration, Google Maps API, and Backend API (JSON) support.
+  
   •	Multimedia Integration: In-app camera, image processing, and dynamic image display for visual appeal.
+  
   •	Location Services: Google Maps integration with polygons and polylines for location-based services.
   
 •	UI Optimization: Adapters, RecyclerView, and menu systems for smooth interfaces.
+  
   •	Dynamic Product Management: Display categories, product listings, and detailed views with adaptable UI components.
 
 •	Data Management: SQLite database for local storage and Retrofit for API calls, and encryption protocols for secure data handling.
