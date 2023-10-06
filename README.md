@@ -2,6 +2,8 @@
 
 This Android App Template serves as a robust foundation for building versatile applications. It incorporates essential features for a seamless user experience, including streamlined navigation, camera integration, Google Maps API, and efficient data management.
 
+![Product_SS](https://github.com/zaqo13/Product/assets/37157319/05335df0-e147-491c-bf2e-5f80acca810e)
+
 Key Features:
 
 •	Navigation: Activities, Fragments, Tabs, and Drawer for intuitive user journeys.
